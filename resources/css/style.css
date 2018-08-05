@@ -191,6 +191,7 @@ input[type="text"]{
 #watch-search-input {
     width:15em;
     font-size:1em;
+    height:1.5em;
 }
 
 
@@ -200,6 +201,7 @@ input[type="text"]{
     cursor:pointer;
     margin:0 .5em;
     font-size:1em;
+    height:1.5em;
     background:white;
 }
 
