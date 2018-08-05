@@ -48,6 +48,8 @@ footer {
     color:white;
 }
 
+
+
 nav {
     background-color: white;
     padding:.05em 1em;
@@ -182,11 +184,16 @@ a {
     opacity:1;
 }
 
+input[type="text"]{
+    border:none;
+}
 
 #watch-search-input {
     width:15em;
     font-size:1em;
 }
+
+
 
 #search-button {
     border:none;
