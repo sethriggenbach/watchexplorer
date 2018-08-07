@@ -153,7 +153,6 @@ a {
 }
 
 .watch-thumb:hover {
-    /* width:11%; */
     opacity:1;
 }
 
@@ -208,12 +207,10 @@ select, input, button {
     border:none;
 }
 
-/* #search-form {
+#search-form {
     width:initial;
-    background:white;
-    display:inline-block;
     margin-right:.5em;
-} */
+}
 
 #search-button {
     border:none;
