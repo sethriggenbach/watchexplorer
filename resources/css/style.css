@@ -214,13 +214,14 @@ select, input, button {
     border:none;
     cursor:pointer;
     display:inline-block;
-    background:white;
+    background-color:white;
     height:20px;
     font-size:1em;
+    text-align:center;
+    font-weight:bold;
     vertical-align:middle;
     margin-right:1em;
-    text-align:center;
-    
+
 }
 
 @media (max-width: 800px) {
