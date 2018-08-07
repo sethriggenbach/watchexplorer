@@ -208,12 +208,6 @@ select, input, button {
     border:none;
 }
 
-/* #search-form {
-    width:initial;
-    background:white;
-    display:inline-block;
-    margin-right:.5em;
-} */
 
 #search-button {
     border:none;
@@ -223,6 +217,7 @@ select, input, button {
     height:20px;
     font-size:1em;
     vertical-align:middle;
+    margin-right:1em;
     
 }
 
@@ -240,6 +235,8 @@ select, input, button {
     }
     #search-button {
         margin:0;
+        height:30px;
+        width:30px;
     }
     .col-img {
         display:block;
@@ -254,11 +251,12 @@ select, input, button {
     #search-container {
         text-align:center;
     }
-    /* #watch-search-input {
-        width:90%;
-    } */
-    /* #search-form {
-        width:80%;
-    } */
+
+    #watch-search-input {
+        height:30px;
+
+    }
+
+    
 
 }
