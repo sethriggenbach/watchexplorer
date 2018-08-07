@@ -207,10 +207,6 @@ select, input, button {
     border:none;
 }
 
-#search-form {
-    width:initial;
-    margin-right:.5em;
-}
 
 #search-button {
     border:none;
@@ -220,7 +216,7 @@ select, input, button {
     height:20px;
     font-size:1em;
     vertical-align:middle;
-    
+    margin-right:1em;
 }
 
 @media (max-width: 800px) {
