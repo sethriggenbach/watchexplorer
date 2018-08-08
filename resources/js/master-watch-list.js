@@ -4,7 +4,7 @@ var watchData = {
         brand:"Rolex",
         image:"./resources/images/rolex/explorer.jpg",
         pdfLink:"./resources/pdf/rolex/explorer.pdf",
-        amazonLink:"https://www.amazon.com/Rolex-Explorer-Stainless-Automatic-214270BKASO/dp/B00CM1IKV6/ref=sr_1_1?ie=UTF8&qid=1533074550&sr=8-1&keywords=rolex+explorer",
+        amazonLink:"https://amzn.to/2KCWIxV",
         category:"Sports",
         description:"Stainless steel case with a stainless steel Rolex oyster bracelet. Fixed domed stainless steel bezel. Black dial with luminous silver-tone hands and stick hour markers. Arabic numerals mark the 3, 6 and 9 o'clock positions. Minute markers around the outer rim. Dial Type: Analog. Luminescent hands and markers. Automatic movement with a 48-hour power reserve. Scratch resistant sapphire crystal. Case diameter: 39 mm. Round case shape. Deployment clasp. Water resistant at 100 meters / 330 feet. Functions: hour, minute, second. Luxury watch style. Watch label: Swiss Made. Rolex Explorer Black Dial Stainless Steel Rolex Oyster Automatic Mens Watch 214270BKASO.",
         specifications: {
@@ -22,7 +22,7 @@ var watchData = {
         brand:"Rolex",
         image:"./resources/images/rolex/datejust.jpg",
         pdfLink:"./resources/pdf/rolex/datejust.pdf",
-        amazonLink:"https://www.amazon.com/Rolex-Datejust-automatic-self-wind-Certified-Pre-owned/dp/B07BBYQKR8/ref=sr_1_1_sspa?ie=UTF8&qid=1533074596&sr=8-1-spons&keywords=rolex+datejust&psc=1",
+        amazonLink:"https://amzn.to/2vt532t",
         category:"Sports",
         description:"Stainless steel case with a stainless steel Rolex jubilee bracelet. Fixed fluted 18kt white gold bezel. Silver dial with silver-tone hands and luminous stick hour markers. Minute markers around the outer rim. Dial Type: Analog. Luminescent hands and dial markers. Date display at the 3 o'clock position. Automatic movement with a 50-hour power reserve. Scratch resistant sapphire crystal. Solid case back. Case diameter: 36 mm. Round case shape. Hidden deployment clasp. Water resistant at 100 meters / 330 feet. Functions: date, hour, minute, second. Additional Info: date displays at 3 o'clock position. Luxury watch style. Watch label: Swiss Made. Item Variations: 116234, 116234-SSJ, Rolex-116234, Rolex-116234-SSJ. Rolex Oyster Perpetual 36 mm Silver Dial Stainless Steel Rolex Jubilee Automatic Mens Watch 116234SSJ.",
         specifications: {
@@ -40,7 +40,7 @@ var watchData = {
         brand:"Audemars Piguet",
         image:"./resources/images/audemars-piguet/royal-oak.jpg",
         pdfLink:"./resources/pdf/piguet/royal-oak41.pdf",
-        amazonLink:"https://www.amazon.com/Audemars-Piguet-Automatic-self-Wind-14790ST-OO-0789ST-09-Certified/dp/B07F23C64J/ref=sr_1_16?ie=UTF8&qid=1533074655&sr=8-16&keywords=piguet+royal+oak",
+        amazonLink:"https://amzn.to/2Mpezu8",
         category:"Sports",
         description:"Stainless steel case with a stainless steel bracelet. Fixed stainless steel bezel. Silver (Grande Tapestry pattern) dial with luminous white gold hands and white gold index hour markers. Minute markers around the outer rim. Dial Type: Analog. Luminescent hands and markers. Date display at the 3 o'clock position. Automatic movement with 60-hour power reserve. Scratch resistant sapphire crystal. Pull / push crown. Transparent case back. Case diameter: 41.9 mm. Case thickness: 9.80 mm. Octagonal case shape. Band width: 20.3 mm. Band length: 8 inches. Deployment clasp. Water resistant at 50 meters / 165 feet. Functions: date, hour, minute, second. Luxury watch style. Watch label: Swiss Made. Audemars Piguet Royal Oak Silver Dial Stainless Steel Automatic Mens Watch 15400ST.OO.1220ST.02.",
         specifications: {
@@ -58,7 +58,7 @@ var watchData = {
         brand:"Cartier",
         image:"./resources/images/cartier/tank.jpg",
         pdfLink:"./resources/pdf/cartier/tank.pdf",
-        amazonLink:"https://www.amazon.com/Cartier-W5200027-Automatic-Display-Black/dp/B00A8DDD58/ref=sr_1_2?ie=UTF8&qid=1533074677&sr=8-2&keywords=cartier+tank",
+        amazonLink:"https://amzn.to/2KBi12W",
         category:"Dress",
         description:"Stainless steel case with a black leather strap. Fixed stainless steel bezel. Silver dial with blued steel hands and black Roman numeral hour markers. Minute markers around an inner ring. Quartz movement. Scratch resistant mineral crystal. Steel grained crown set with a spinal cabochon. Solid case back. Case dimensions: 27 mm x 34.5 mm. Case thickness: 8 mm. Deployment clasp. Water resistant at 30 meters / 100 feet. Functions: hours, minutes. Cartier Tank Solo Steel Large Men's Watch W5200003.",
         specifications: {
@@ -76,7 +76,7 @@ var watchData = {
         brand:"Seiko",
         image:"./resources/images/seiko/snk809.jpg",
         pdfLink:"./resources/pdf/seiko/snk809.pdf",
-        amazonLink:"https://www.amazon.com/Seiko-SNK809-Automatic-Stainless-Canvas/dp/B002SSUQFG/ref=sr_1_1?ie=UTF8&qid=1532739748&sr=8-1&keywords=snk809",
+        amazonLink:"https://amzn.to/2KBENYv",
         category:"Military",
         description:"Stainless steel case with a black canvas bracelet. Fixed stainless steel bezel. Black dial with luminous hands and Arabic numeral hour markers. Arabic numeral minute markers (at 5 minute intervals). minute markers around the outer rim. ",
         specifications: {
@@ -94,7 +94,7 @@ var watchData = {
         brand:"Seiko",
         image:"./resources/images/seiko/skx007.jpg",
         pdfLink:"./resources/pdf/seiko/skx007.pdf",
-        amazonLink:"https://www.amazon.com/Seiko-SKX007K2-Divers-Automatic-Watch/dp/B000B5OD4I/ref=sr_1_2?ie=UTF8&qid=1532820093&sr=8-2&keywords=skx007",
+        amazonLink:"https://amzn.to/2KAqOlG",
         category:"Diver",
         description:"A sleek, good-looking watch with water resistance up to 660 feet (200 meters), the Seiko Men's Diver's Automatic Watch is an instant classic. The watch begins with a 40mm stainless steel case and black-toned stainless steel unidirectional bezel. A protected crown graces the right side of the case in a unique 4 'o clock position. These elements cradle a black dial with prominent luminous hour markers and hands powered by Japanese automatic movement. The dial also features a date display window at the 3 'o clock position. The stainless steel bracelet sports a stylish five-link construction as it reaches out to the fold-over clasp. ",
         specifications: {
@@ -107,12 +107,12 @@ var watchData = {
             priceRange:"Affordable",
         },
     },
-    "Hamilton Intramatic": {
-        model:"Intramatic",
+    "Hamilton Intramatic (38mm)": {
+        model:"Intramatic (38mm)",
         brand:"Hamilton",
         image:"./resources/images/hamilton/intramatic.jpg",
         pdfLink:"./resources/pdf/hamilton/intramatic.pdf",
-        amazonLink:"https://www.amazon.com/Hamilton-Intra-Matic-Silver-Leather-H38455751/dp/B008AW8OE4/ref=sr_1_1?ie=UTF8&qid=1532821231&sr=8-1&keywords=hamilton+intramatic",
+        amazonLink:"https://amzn.to/2Om8ejM",
         category:"Dress",
         description:"Stainless steel case with a black leather strap. Fixed stainless steel bezel. Silver dial with black hands and index hour markers. Dial Type: Analog. Date display at the 6 o'clock position. Automatic movement with a 42-hour power reserve. Scratch resistant sapphire crystal. Pull / push crown. Skeleton case back. Case diameter: 38 mm. Case thickness: 10 mm. Round case shape. Band width: 20 mm. Tang clasp. Water resistant at 50 meters / 165 feet. Functions: date, hour, minute. Casual watch style. Watch label: Swiss Made. Hamilton Intra-Matic Silver Dial Leather Mens Watch H38455751. ",
         specifications: {
