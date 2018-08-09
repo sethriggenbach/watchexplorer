@@ -143,4 +143,22 @@ var watchData = {
             priceRange:"Affordable",
         },
     },
+        "Seiko SNZG13": {
+        model:"SNZG13",
+        brand:"Seiko",
+        image:"./resources/images/seiko/snzg13.jpg",
+        pdfLink:"./resources/pdf/seiko/snzg13.pdf",
+        amazonLink:"https://amzn.to/2vrqxg4",
+        category:"Pilot",
+        description:"Stainless steel case with a black leather strap. Fixed stainless steel bezel. Silver dial with black hands and index hour markers. Dial Type: Analog. Date display at the 6 o'clock position. Automatic movement with a 42-hour power reserve. Scratch resistant sapphire crystal. Pull / push crown. Skeleton case back. Case diameter: 38 mm. Case thickness: 10 mm. Round case shape. Band width: 20 mm. Tang clasp. Water resistant at 50 meters / 165 feet. Functions: date, hour, minute. Casual watch style. Watch label: Swiss Made. Hamilton Intra-Matic Silver Dial Leather Mens Watch H38455751. ",
+        specifications: {
+            caseSize:"42mm",
+            caseMaterial:"Stainless Steel",
+            caseShape:"Round",
+            originCountry:"Malaysia",
+            dialColor:"White",
+            bandType:"Canvas",
+            priceRange:"Affordable",
+        },
+    },
 }
