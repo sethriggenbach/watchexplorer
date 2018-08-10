@@ -179,7 +179,7 @@ var watchData = {
             priceRange:"Luxury",
         },
     },
-    "Junghans Max Bill Quartz (Numeric)",
+    "Junghans Max Bill Quartz (Numeric)": {
         model:"Max Bill Quartz",
         brand:"Junghans",
         image:"./resources/images/junghans/max-bill-quartz-arabic.jpg",
