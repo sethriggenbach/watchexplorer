@@ -21,16 +21,24 @@ html {
      margin:0 0 1em 0;
      width:100%;
 }
- .filler {
-     clear: both;
-     height:auto;
-}
  footer {
-     background-color:black;
-     padding:.5em;
-     width:100%;
-     margin:1em 0 0 0;
-     color:white;
+    text-align:center;
+    margin:1em auto;
+    padding:1em;
+    background-color: none;
+    max-width:1100px;
+    font-size:.75em;
+}
+.footer-block {
+    text-align:left;
+    display:inline-block;
+    vertical-align:top;
+    margin:0 4em;
+}
+
+.footer-block ul {
+    list-style:none;
+    padding-left:0;
 }
  nav {
      background-color: white;
@@ -55,14 +63,16 @@ html {
 }
  nav ul {
      list-style: none;
+     padding:0;
 }
  nav ul li {
      display:inline-block;
      opacity:.4;
      cursor:pointer;
      font-weight:700;
-     padding-right: 1%;
+     padding:0 .5%;
      transition:.3s;
+   
 }
  nav ul li:hover {
      opacity:1;
@@ -100,9 +110,20 @@ html {
  button:hover {
      opacity:.6;
 }
- a {
+
+.btn-subscribe {
+    background:black;
+    color:white;
+    border:none;
+    display:inline-block;
+}
+a {
      color:black;
      text-decoration: none;
+}
+a:hover {
+    color:#7a7a7a;
+
 }
  .bold {
      font-weight:700;
@@ -212,6 +233,16 @@ html {
     }
      #watch-search-input {
          height:30px;
+    }
+    footer {
+        padding:1.5em;
+        font-size:20px;
+    }
+    .footer-block {
+        text-align:left;
+        display:block;
+        width:90%;
+        margin:1em auto;
     }
 }
  
